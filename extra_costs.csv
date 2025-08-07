@@ -1,0 +1,11 @@
+tour_id,total_tour_price_per_adult,total_tour_price_per_child,included_services,optional_services
+1,120.00,60.00,"Hotel, Breakfast, Guide, Entry Fees","Airport Transfer, Lunch, Dinner"
+2,150.00,75.00,"Hotel, Breakfast, Dinner, City Tour","Historical Guide, Entrance Fees"
+3,95.00,50.00,"Hotel, Guide, Entry Fees","Airport Pickup, Lunch"
+4,180.00,90.00,"Hotel, All Meals, Historical Tours, Transport","Souvenir Pack, Personal Guide"
+5,110.00,55.00,"Hotel, City Tour, Breakfast","Dinner, Extra Night Stay"
+6,135.00,68.00,"Hotel, Transport, Historical Sites","Airport Pickup, Lunch, Camel Ride"
+7,100.00,50.00,"Hotel, Entry Fees, Local Transport","Extra Guide, Dinner"
+8,160.00,80.00,"Hotel, Breakfast, Dinner, Museum Tour","Night Tour, Souvenir Pack"
+9,145.00,70.00,"Hotel, City Tour, Local Market Visit","Dinner at Traditional Restaurant, Photo Session"
+10,125.00,65.00,"Hotel, Entry Tickets, Cultural Show","Lunch, Private Taxi"

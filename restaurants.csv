@@ -1,0 +1,11 @@
+restaurant_id,restaurant_name,restaurant_lat,restaurant_lng,restaurant_avg_meal_price,meals_per_day
+1,Platan,39.654321,66.987654,18.50,3
+2,Old City Restaurant,39.648765,66.995432,20.00,3
+3,Samarkand Restaurant,39.659876,67.001234,15.00,2
+4,Besh Chinor,39.661234,66.993456,12.00,2
+5,Cafe Diyor,39.665432,67.010987,10.00,3
+6,Registan Cafe,39.652345,66.991234,9.00,2
+7,Oasis Garden,39.660123,66.999876,14.50,3
+8,Karimbek,39.653210,66.997654,17.00,2
+9,Manzara,39.657890,66.994321,16.00,2
+10,Bibikhanum Teahouse,39.651234,66.992345,13.50,3

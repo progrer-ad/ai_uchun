@@ -1,0 +1,9 @@
+airport_id,airport_name,airport_lat,airport_lng,taxi_to_hotel_price
+1,Samarqand International Airport,39.7006,66.9872,4.50
+2,Samarqand International Airport → Hilton Samarkand Regency,39.7006,66.9872,5.00
+3,Samarqand International Airport → Silk Road by Minyoun,39.7006,66.9872,6.00
+4,Samarqand International Airport → Savitsky Plaza,39.7006,66.9872,5.50
+5,Samarqand International Airport → Mövenpick Samarkand,39.7006,66.9872,5.00
+6,Samarqand International Airport → Old City Hotel,39.7006,66.9872,4.80
+7,Samarqand International Airport → Zarafshan Hotel,39.7006,66.9872,6.20
+8,Samarqand International Airport → Grand Samarkand Hotel,39.7006,66.9872,6.00

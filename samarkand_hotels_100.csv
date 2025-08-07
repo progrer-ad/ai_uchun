@@ -1,0 +1,101 @@
+hotel_id,hotel_name,hotel_location_name,hotel_lat,hotel_lng,hotel_class,hotel_price_per_night,hotel_tariff_type,hotel_check_in,hotel_check_out
+1,Mövenpick Samarkand #1,Samarkand markazi,39.646175,66.985267,5,66.44,Deluxe,15:00,11:00
+2,Savitsky Plaza #2,Silk Road kompleks,39.624974,67.007922,4,69.54,Standard,14:00,12:00
+3,Savitsky Plaza #3,Silk Road kompleks,39.61893,67.010072,4,69.54,Standard,14:00,12:00
+4,Savitsky Plaza #4,Silk Road kompleks,39.622801,66.992457,4,69.54,Standard,14:00,12:00
+5,Silk Road by Minyoun #5,Silk Road kompleks,39.631587,67.00992,5,129.15,Deluxe,15:00,11:00
+6,Mövenpick Samarkand #6,Samarkand markazi,39.661966,66.968182,5,143.57,Deluxe,15:00,11:00
+7,Mövenpick Samarkand #7,Samarkand markazi,39.656376,66.979562,5,71.14,Deluxe,15:00,11:00
+8,Silk Road by Minyoun #8,Silk Road kompleks,39.615584,66.992585,5,129.15,Deluxe,15:00,11:00
+9,Savitsky Plaza #9,Silk Road kompleks,39.628758,66.996671,4,69.54,Standard,14:00,12:00
+10,Silk Road by Minyoun #10,Silk Road kompleks,39.621711,66.992597,5,129.15,Deluxe,15:00,11:00
+11,Silk Road by Minyoun #11,Silk Road kompleks,39.624289,66.99902,5,129.15,Deluxe,15:00,11:00
+12,Silk Road by Minyoun #12,Silk Road kompleks,39.626531,66.995299,5,129.15,Deluxe,15:00,11:00
+13,Savitsky Plaza #13,Silk Road kompleks,39.621677,66.992375,4,69.54,Standard,14:00,12:00
+14,Savitsky Plaza #14,Silk Road kompleks,39.621051,67.006825,4,69.54,Standard,14:00,12:00
+15,Hilton Samarkand Regency #15,Samarkand markazi,39.650103,66.955253,4,96.0,Standard,14:00,12:00
+16,Mövenpick Samarkand #16,Samarkand markazi,39.644743,66.978039,5,87.27,Deluxe,15:00,11:00
+17,Silk Road by Minyoun #17,Silk Road kompleks,39.624725,66.995219,5,129.15,Deluxe,15:00,11:00
+18,Savitsky Plaza #18,Silk Road kompleks,39.633313,66.999733,4,69.54,Standard,14:00,12:00
+19,Savitsky Plaza #19,Silk Road kompleks,39.625551,67.007578,4,69.54,Standard,14:00,12:00
+20,Savitsky Plaza #20,Silk Road kompleks,39.625953,66.991987,4,69.54,Standard,14:00,12:00
+21,Savitsky Plaza #21,Silk Road kompleks,39.624922,67.007179,4,69.54,Standard,14:00,12:00
+22,Hilton Samarkand Regency #22,Samarkand markazi,39.6446,66.955588,4,96.0,Standard,14:00,12:00
+23,Savitsky Plaza #23,Silk Road kompleks,39.619191,67.009996,4,69.54,Standard,14:00,12:00
+24,Hilton Samarkand Regency #24,Samarkand markazi,39.659521,66.953038,4,96.0,Standard,14:00,12:00
+25,Savitsky Plaza #25,Silk Road kompleks,39.624391,66.991624,4,69.54,Standard,14:00,12:00
+26,Hilton Samarkand Regency #26,Samarkand markazi,39.65285,66.959208,4,96.0,Standard,14:00,12:00
+27,Savitsky Plaza #27,Silk Road kompleks,39.626967,67.006163,4,69.54,Standard,14:00,12:00
+28,Silk Road by Minyoun #28,Silk Road kompleks,39.622585,67.007957,5,129.15,Deluxe,15:00,11:00
+29,Mövenpick Samarkand #29,Samarkand markazi,39.65674,66.976942,5,105.42,Deluxe,15:00,11:00
+30,Silk Road by Minyoun #30,Silk Road kompleks,39.628867,67.007301,5,129.15,Deluxe,15:00,11:00
+31,Savitsky Plaza #31,Silk Road kompleks,39.618901,67.006471,4,69.54,Standard,14:00,12:00
+32,Mövenpick Samarkand #32,Samarkand markazi,39.646431,66.974182,5,114.2,Deluxe,15:00,11:00
+33,Silk Road by Minyoun #33,Silk Road kompleks,39.622786,67.007804,5,129.15,Deluxe,15:00,11:00
+34,Mövenpick Samarkand #34,Samarkand markazi,39.659259,66.981411,5,105.02,Deluxe,15:00,11:00
+35,Silk Road by Minyoun #35,Silk Road kompleks,39.616532,67.005886,5,129.15,Deluxe,15:00,11:00
+36,Silk Road by Minyoun #36,Silk Road kompleks,39.62334,66.996869,5,129.15,Deluxe,15:00,11:00
+37,Silk Road by Minyoun #37,Silk Road kompleks,39.622861,66.998281,5,129.15,Deluxe,15:00,11:00
+38,Hilton Samarkand Regency #38,Samarkand markazi,39.649882,66.955217,4,96.0,Standard,14:00,12:00
+39,Hilton Samarkand Regency #39,Samarkand markazi,39.662367,66.951414,4,96.0,Standard,14:00,12:00
+40,Silk Road by Minyoun #40,Silk Road kompleks,39.622869,67.007844,5,129.15,Deluxe,15:00,11:00
+41,Savitsky Plaza #41,Silk Road kompleks,39.61954,67.004293,4,69.54,Standard,14:00,12:00
+42,Silk Road by Minyoun #42,Silk Road kompleks,39.615553,67.005894,5,129.15,Deluxe,15:00,11:00
+43,Silk Road by Minyoun #43,Silk Road kompleks,39.620261,67.00502,5,129.15,Deluxe,15:00,11:00
+44,Silk Road by Minyoun #44,Silk Road kompleks,39.628917,67.003089,5,129.15,Deluxe,15:00,11:00
+45,Savitsky Plaza #45,Silk Road kompleks,39.629488,67.003328,4,69.54,Standard,14:00,12:00
+46,Silk Road by Minyoun #46,Silk Road kompleks,39.627464,67.010954,5,129.15,Deluxe,15:00,11:00
+47,Hilton Samarkand Regency #47,Samarkand markazi,39.652547,66.961462,4,96.0,Standard,14:00,12:00
+48,Savitsky Plaza #48,Silk Road kompleks,39.631229,67.007427,4,69.54,Standard,14:00,12:00
+49,Silk Road by Minyoun #49,Silk Road kompleks,39.632829,66.993606,5,129.15,Deluxe,15:00,11:00
+50,Silk Road by Minyoun #50,Silk Road kompleks,39.619315,67.001759,5,129.15,Deluxe,15:00,11:00
+51,Silk Road by Minyoun #51,Silk Road kompleks,39.614756,66.994405,5,129.15,Deluxe,15:00,11:00
+52,Mövenpick Samarkand #52,Samarkand markazi,39.655126,66.976295,5,76.38,Deluxe,15:00,11:00
+53,Silk Road by Minyoun #53,Silk Road kompleks,39.629881,66.999189,5,129.15,Deluxe,15:00,11:00
+54,Mövenpick Samarkand #54,Samarkand markazi,39.652416,66.973168,5,146.06,Deluxe,15:00,11:00
+55,Silk Road by Minyoun #55,Silk Road kompleks,39.618886,67.008478,5,129.15,Deluxe,15:00,11:00
+56,Savitsky Plaza #56,Silk Road kompleks,39.627999,67.000588,4,69.54,Standard,14:00,12:00
+57,Savitsky Plaza #57,Silk Road kompleks,39.616269,67.003893,4,69.54,Standard,14:00,12:00
+58,Savitsky Plaza #58,Silk Road kompleks,39.626141,67.008578,4,69.54,Standard,14:00,12:00
+59,Hilton Samarkand Regency #59,Samarkand markazi,39.652753,66.951476,4,96.0,Standard,14:00,12:00
+60,Silk Road by Minyoun #60,Silk Road kompleks,39.627997,67.005911,5,129.15,Deluxe,15:00,11:00
+61,Mövenpick Samarkand #61,Samarkand markazi,39.659679,66.975879,5,86.21,Deluxe,15:00,11:00
+62,Hilton Samarkand Regency #62,Samarkand markazi,39.644416,66.963145,4,96.0,Standard,14:00,12:00
+63,Savitsky Plaza #63,Silk Road kompleks,39.624561,66.998857,4,69.54,Standard,14:00,12:00
+64,Savitsky Plaza #64,Silk Road kompleks,39.632219,66.999812,4,69.54,Standard,14:00,12:00
+65,Silk Road by Minyoun #65,Silk Road kompleks,39.627589,66.992788,5,129.15,Deluxe,15:00,11:00
+66,Silk Road by Minyoun #66,Silk Road kompleks,39.621975,66.995384,5,129.15,Deluxe,15:00,11:00
+67,Silk Road by Minyoun #67,Silk Road kompleks,39.633235,67.005299,5,129.15,Deluxe,15:00,11:00
+68,Hilton Samarkand Regency #68,Samarkand markazi,39.646975,66.95638,4,96.0,Standard,14:00,12:00
+69,Mövenpick Samarkand #69,Samarkand markazi,39.647417,66.97949,5,61.14,Deluxe,15:00,11:00
+70,Savitsky Plaza #70,Silk Road kompleks,39.623694,67.006785,4,69.54,Standard,14:00,12:00
+71,Silk Road by Minyoun #71,Silk Road kompleks,39.628425,66.999278,5,129.15,Deluxe,15:00,11:00
+72,Mövenpick Samarkand #72,Samarkand markazi,39.66132,66.97592,5,84.5,Deluxe,15:00,11:00
+73,Mövenpick Samarkand #73,Samarkand markazi,39.644427,66.973143,5,84.12,Deluxe,15:00,11:00
+74,Mövenpick Samarkand #74,Samarkand markazi,39.65808,66.983963,5,70.94,Deluxe,15:00,11:00
+75,Mövenpick Samarkand #75,Samarkand markazi,39.642553,66.983546,5,99.8,Deluxe,15:00,11:00
+76,Hilton Samarkand Regency #76,Samarkand markazi,39.646006,66.95336,4,96.0,Standard,14:00,12:00
+77,Savitsky Plaza #77,Silk Road kompleks,39.616806,67.007352,4,69.54,Standard,14:00,12:00
+78,Silk Road by Minyoun #78,Silk Road kompleks,39.614812,67.000957,5,129.15,Deluxe,15:00,11:00
+79,Silk Road by Minyoun #79,Silk Road kompleks,39.615467,66.992775,5,129.15,Deluxe,15:00,11:00
+80,Savitsky Plaza #80,Silk Road kompleks,39.615843,67.00413,4,69.54,Standard,14:00,12:00
+81,Silk Road by Minyoun #81,Silk Road kompleks,39.629371,67.000395,5,129.15,Deluxe,15:00,11:00
+82,Hilton Samarkand Regency #82,Samarkand markazi,39.661458,66.969098,4,96.0,Standard,14:00,12:00
+83,Mövenpick Samarkand #83,Samarkand markazi,39.651181,66.972063,5,76.35,Deluxe,15:00,11:00
+84,Hilton Samarkand Regency #84,Samarkand markazi,39.656405,66.954495,4,96.0,Standard,14:00,12:00
+85,Hilton Samarkand Regency #85,Samarkand markazi,39.649582,66.951387,4,96.0,Standard,14:00,12:00
+86,Savitsky Plaza #86,Silk Road kompleks,39.627864,67.001086,4,69.54,Standard,14:00,12:00
+87,Hilton Samarkand Regency #87,Samarkand markazi,39.649423,66.955248,4,96.0,Standard,14:00,12:00
+88,Silk Road by Minyoun #88,Silk Road kompleks,39.622107,66.9927,5,129.15,Deluxe,15:00,11:00
+89,Hilton Samarkand Regency #89,Samarkand markazi,39.663359,66.96958,4,96.0,Standard,14:00,12:00
+90,Hilton Samarkand Regency #90,Samarkand markazi,39.654295,66.958056,4,96.0,Standard,14:00,12:00
+91,Hilton Samarkand Regency #91,Samarkand markazi,39.653424,66.957404,4,96.0,Standard,14:00,12:00
+92,Hilton Samarkand Regency #92,Samarkand markazi,39.659685,66.966042,4,96.0,Standard,14:00,12:00
+93,Silk Road by Minyoun #93,Silk Road kompleks,39.632608,67.006993,5,129.15,Deluxe,15:00,11:00
+94,Savitsky Plaza #94,Silk Road kompleks,39.632748,66.993108,4,69.54,Standard,14:00,12:00
+95,Hilton Samarkand Regency #95,Samarkand markazi,39.653149,66.967016,4,96.0,Standard,14:00,12:00
+96,Mövenpick Samarkand #96,Samarkand markazi,39.661343,66.975197,5,123.12,Deluxe,15:00,11:00
+97,Hilton Samarkand Regency #97,Samarkand markazi,39.653859,66.959854,4,96.0,Standard,14:00,12:00
+98,Savitsky Plaza #98,Silk Road kompleks,39.624451,67.006763,4,69.54,Standard,14:00,12:00
+99,Silk Road by Minyoun #99,Silk Road kompleks,39.615497,67.004854,5,129.15,Deluxe,15:00,11:00
+100,Silk Road by Minyoun #100,Silk Road kompleks,39.620724,67.008325,5,129.15,Deluxe,15:00,11:00
